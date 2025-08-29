@@ -165,7 +165,3 @@
 - Deleting Unneeded Files
 - Filling in the Gaps
 - Project 5: Rename Files with American-Style Dates to European-Style Dates
-
-[chapter 6 - lists](https://www.notion.so/chapter-6-lists-25ddf4dbf352800eb39cf5b34c3ad138?pvs=21)
-
-[chapter 7 - dictionary](https://www.notion.so/chapter-7-dictionary-25ddf4dbf35280568afae79dbac2116b?pvs=21)
