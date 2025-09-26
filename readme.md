@@ -1,6 +1,6 @@
 Learning Outcome
 
-- ability to look at reptitive data or tasks and sketch a script to handle it
+- ability to look at repetitive data or tasks and sketch a script to handle it
 - write loops, conditionals, functions and handle errors without looking up syntax
 - understand lists, dicts, sets and tuples and when to use each
 - read/write text, CSV, Excel, JSON
